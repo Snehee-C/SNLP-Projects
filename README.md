@@ -16,3 +16,7 @@ Assignment 5: Finetuning Transformers on IMDB Dataset.
 Assignment 6: Part 1: Using Stanford Question Answering Dataset to make q&a model with token level IoU metric (https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset).
 
 Assignment 6: Part 2: NER and DeBerta model on The Learning Agency Lab - PII Data Detection dataset (https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/overview).
+
+Assignment 7: Part 1: Match unresolved queries with already resolved queries using Fuzzy Search and BoW + Tfidf with cosine similarity for the same.
+
+Assignment 7: Part 2: Match names between 2 lists.
