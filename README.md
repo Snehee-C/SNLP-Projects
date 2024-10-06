@@ -20,3 +20,7 @@ Assignment 6: Part 2: NER and DeBerta model on The Learning Agency Lab - PII Dat
 Assignment 7: Part 1: Match unresolved queries with already resolved queries using Fuzzy Search and BoW + Tfidf with cosine similarity for the same.
 
 Assignment 7: Part 2: Match names between 2 lists.
+
+Assignment 8: Sematic Search by training a bi-encoder using Cosine Similarity Loss, Contrastive Loss, Multiple Negative Ranking Loss and training a cross-encoder (https://www.kaggle.com/competitions/quora-question-pairs/overview)
+
+Assignment 9: Topic Modelling using LSA, LDA, NMF and BERTopic (https://www.kaggle.com/datasets/benhamner/nips-papers/data)
